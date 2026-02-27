@@ -30,7 +30,7 @@ export default function Footer() {
                 className="text-white font-semibold"
                 style={{ fontFamily: "'Noto Serif JP', serif" }}
               >
-                さくら歯科クリニック
+                サンプル歯科クリニック
               </span>
             </div>
             <p
@@ -89,7 +89,7 @@ export default function Footer() {
                 className="text-white/50 text-xs"
                 style={{ fontFamily: "'Noto Sans JP', sans-serif" }}
               >
-                〒150-0001 東京都渋谷区神宮前1-2-3
+                〒150-0001 東京都渋谷区
               </p>
               <p
                 className="text-white/50 text-xs"
@@ -119,13 +119,13 @@ export default function Footer() {
             className="text-white/30 text-xs"
             style={{ fontFamily: "'Noto Sans JP', sans-serif" }}
           >
-            © {year} さくら歯科クリニック. All rights reserved.
+            © {year} サンプル歯科クリニック. All rights reserved.
           </p>
           <p
             className="text-white/20 text-xs"
             style={{ fontFamily: "'Noto Sans JP', sans-serif" }}
           >
-            Sakura Dental Clinic — 渋谷区神宮前
+            Sample Dental Clinic — 渋谷区
           </p>
         </div>
       </div>

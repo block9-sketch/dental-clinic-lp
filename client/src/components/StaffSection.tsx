@@ -8,24 +8,24 @@ const TEAM_IMAGE =
 
 const staff = [
   {
-    name: "中村 浩一",
-    nameEn: "Dr. Koichi Nakamura",
+    name: "サンプル 浩一",
+    nameEn: "Dr. Koichi Sample",
     role: "院長・歯科医師",
     career: "東京歯科大学卒業。口腔外科・インプラント専門医。",
     message: "患者さまが「また来たい」と思える医院づくりを目指しています。",
     specialty: ["一般歯科", "インプラント", "口腔外科"],
   },
   {
-    name: "田中 健太",
-    nameEn: "Dr. Kenta Tanaka",
+    name: "サンプル健太",
+    nameEn: "Dr. Kenta Sample",
     role: "副院長・歯科医師",
     career: "日本大学歯学部卒業。矯正歯科専門医。",
     message: "美しい歯並びは、笑顔の自信につながります。",
     specialty: ["矯正歯科", "小児歯科", "予防歯科"],
   },
   {
-    name: "佐藤 由美",
-    nameEn: "DH. Yumi Sato",
+    name: "サンプル 由美",
+    nameEn: "DH. Yumi Sample",
     role: "歯科衛生士",
     career: "東京医科歯科大学附属歯科衛生士学校卒業。",
     message: "丁寧なクリーニングで、健康な歯を長く守ります。",

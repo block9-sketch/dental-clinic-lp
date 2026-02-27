@@ -61,7 +61,7 @@ export default function HeroSection() {
             className="text-white/85 text-base lg:text-lg leading-relaxed mb-10 max-w-lg"
             style={{ fontFamily: "'Noto Sans JP', sans-serif" }}
           >
-            さくら歯科クリニックは、渋谷区にある清潔感あふれる歯科医院です。
+            サンプル歯科クリニックは、渋谷区にある清潔感あふれる歯科医院です。
             一般歯科から矯正・審美歯科まで、お口の健康をトータルにサポートします。
           </p>
 

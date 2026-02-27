@@ -61,7 +61,7 @@ export default function Navigation() {
                 }`}
                 style={{ fontFamily: "'Noto Serif JP', serif" }}
               >
-                さくら歯科クリニック
+                サンプル歯科クリニック
               </span>
             </div>
           </a>
